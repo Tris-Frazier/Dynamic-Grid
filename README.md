@@ -12,5 +12,10 @@ To view this program, download styles.css, grid.js, and index.html into the same
 * CSS
 * JavaScript
 
+# Planned Future Improvements
+- [ ] allow user to custumize grid size and color
+- [ ] add sound effect when color moves
+- [ ] turn this into a fun adding/subtracting game for young kids to help with memorization
+
 # License
 This project is licensed under the MIT License.
